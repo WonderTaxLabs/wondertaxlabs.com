@@ -1,2 +1,2 @@
 # redirects
-Repository for pages site to enable a 301 redirect for [domain] traffic to wonder.tax
+Repository for pages site to enable a 301 redirect for wondertaxlabs.com traffic to wonder.tax
